@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: persuing PhD in Machine Learning
+    - course: pursuing PhD in Machine Learning
       institution: Weizmann Institute of Science
       year: 2025
     - course: MSc in Machine Learning
