@@ -67,7 +67,7 @@ url_poster: 'https://nips.cc/media/PosterPDFs/NeurIPS%202023/70421.png?t=1701617
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects:
+projects: []
 #   - example
 
 # Slides (optional).
@@ -75,7 +75,7 @@ url_poster: 'https://nips.cc/media/PosterPDFs/NeurIPS%202023/70421.png?t=1701617
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+slides: ""
 ---
 
 # {{% callout note %}}
