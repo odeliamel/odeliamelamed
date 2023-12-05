@@ -1,19 +1,21 @@
 ---
-title: 'An example conference paper'
+title: 'Adversarial Examples Exist in Two-Layer ReLU Networks for Low Dimensional Linear Subspaces'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Gilad Yehudai
+  - Gal Vardi
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - ''
+  - '[Site](https://sites.google.com/view/gyehudai/home)'
+  - '[Site](https://sites.google.com/view/galvardi/home)'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-09-21T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
