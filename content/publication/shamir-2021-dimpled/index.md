@@ -11,4 +11,6 @@ publication: '*arXiv preprint arXiv:2106.10151*'
 
 
 external_link: https://arxiv.org/abs/2106.10151
+url_pdf: https://arxiv.org/pdf/2106.10151.pdf
+
 ---
