@@ -6,6 +6,6 @@ title: Rich Caruana
 first_name: Rich
 last_name: Caruana
 
-external_link: https://scholar.google.com/citations?user=B2U8EUwAAAAJ&hl=en
+external_link: "https://scholar.google.com/citations?user=B2U8EUwAAAAJ&hl=en"
 
 ---
