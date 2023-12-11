@@ -11,4 +11,12 @@ publication_types: ["1"]
 publication: '*Thirty-seventh Conference on Neural Information Processing Systems*'
 
 external_link: https://openreview.net/forum?id=pJbEXBBN88
+
+
+links:
+- name: Conference Page
+  url: https://neurips.cc/
+  
+url_pdf: https://openreview.net/pdf?id=pJbEXBBN88
+
 ---
