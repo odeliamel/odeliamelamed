@@ -56,7 +56,7 @@ sections:
      #   {{% /callout %}}
 #       filters:
 #         folders:
-#           - mypublications
+#           - publication
 #         exclude_featured: true
 #     design:
 #       columns: '2'
