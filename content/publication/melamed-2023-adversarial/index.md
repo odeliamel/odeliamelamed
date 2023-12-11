@@ -7,6 +7,6 @@ authors:
 - Gal Vardi
 date: '2023-01-01'
 publishDate: '2023-12-11T01:16:17.549413Z'
-publication_types: ['paper-conference']
+publication_types: ["1"]
 publication: '*Thirty-seventh Conference on Neural Information Processing Systems*'
 ---
