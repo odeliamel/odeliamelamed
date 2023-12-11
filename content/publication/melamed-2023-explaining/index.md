@@ -13,7 +13,8 @@ external_link: https://openreview.net/forum?id=wNhcShUyAf
 
 links:
 - name: Conference Page
-  url: https://openreview.net/forum?id=wNhcShUyAf
+  url: https://xai-in-action.github.io/
 
 url_pdf: https://openreview.net/pdf?id=wNhcShUyAf
+
 ---
