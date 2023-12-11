@@ -5,7 +5,6 @@ authors:
 - Rich Caruana
 date: '2023-01-01'
 publishDate: '2023-12-11T01:16:17.557898Z'
-publication_types:
-- article-journal
+publication_types: ["1"]
 publication: '*arXiv preprint arXiv:2311.13454*'
 ---
