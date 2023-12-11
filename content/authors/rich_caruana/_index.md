@@ -1,6 +1,8 @@
 ---
 # Display name
 title: Rich Caruana
+
+# Optional external URL for author (replaces author detail page).
 external_link: "https://scholar.google.com/citations?user=B2U8EUwAAAAJ&hl=en"
 
 # Full name (for SEO)
