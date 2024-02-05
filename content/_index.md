@@ -22,15 +22,15 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
-    id: talks
-    content:
-      title: Talks
+#  - block: collection
+#    id: talks
+#    content:
+#      title: Talks
 #      filters:
 #        folders:
 #          - event
-    design:
-      columns: '2'
-      view: compact
+#    design:
+#      columns: '2'
+#      view: compact
   
 ---
