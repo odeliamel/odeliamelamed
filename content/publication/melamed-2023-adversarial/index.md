@@ -8,7 +8,7 @@ authors:
 date: '2023-01-01'
 publishDate: '2023-12-11T01:16:17.549413Z'
 publication_types: ["1"]
-publication: 'Advances in Neural Information Processing Systems, 36'
+publication: '*Advances in Neural Information Processing Systems, 36*'
 
 external_link: https://openreview.net/forum?id=pJbEXBBN88
 
