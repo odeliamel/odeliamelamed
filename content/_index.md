@@ -19,6 +19,7 @@ sections:
         folders:
           - publication
         exclude_featured: true
+    count: 0
     design:
       columns: '2'
       view: card
