@@ -18,8 +18,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
-    count: 0
+#        exclude_featured: true
     design:
       columns: '2'
       view: card
