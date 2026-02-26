@@ -10,5 +10,5 @@ publication_short: "CVPR 2026"
 publication_types: ["1"]
 publishDate: "2026-01-01"
 date: "2026-01-01"
-url_pdf: "uploads/CVPR_2026__E__T3_Energy_Guided_Test_Time_Transformation.pdf"
+url_pdf: "uploads/mirza2026et3.pdf"
 ---
