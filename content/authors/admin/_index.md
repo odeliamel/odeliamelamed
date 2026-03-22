@@ -22,12 +22,12 @@ organizations:
     url: https://www.weizmann.ac.il/pages/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Security in ML, Theoretical Machine Learning and Cryptography.
+bio: My research interests include Security in ML, Trustworthy AI, Theoretical Machine Learning and Cryptography.
 
 # Interests to show in About widget
 interests:
   - Security in ML
-  - Adversarial Examples in ML
+  - Trustworthy AI
   - Theoretical Machine Learning
   - Cryptography
 
@@ -36,7 +36,7 @@ education:
   courses:
     - course: Pursuing PhD in Machine Learning
       institution: Weizmann Institute of Science
-      year: 2025
+      year: 2026
     - course: MSc in Machine Learning
       institution: Weizmann Institute of Science
       year: 2021
@@ -75,7 +75,9 @@ email: 'odelia.melamed@weizmann.ac.il'
 highlight_name: true
 ---
 
-Odelia Melamed is a PhD student advised by Professor Adi Shamir at the department of Applied Mathematics and Computer Science, Weizmann Institute of Science, Israel. Her research interests include ML security, Adversarial Examples in Machine Learning, and Theoretical Machine Learning. 
+I am currently a PhD student in the Department of Applied Mathematics and Computer Science at the Weizmann Institute of Science, advised by Prof. Adi Shamir. I previously completed my M.Sc. at the Weizmann Institute of Science, also under the supervision of Prof. Adi Shamir. Before that, I earned my B.Sc. in Mathematics and Computer Science from Ben-Gurion University of the Negev. 
 
-Particularly, she is interested in Adversarial Examples and the Neural Networks’ properties that lead to their existence in the theoretic aspect, the geometric and algebraic properties of trained Neural Networks due to their architecture, the data set, and the training process. Interested in the transferability of adversarial examples and the nature of defense methods against these examples. Focus on implicit low-dimensional data sets in high-dimensional input space, combine theory and applied research.
+My research interests lie in trustworthy AI, machine learning security, and theoretical machine learning. I study the theory of deep learning, aiming to understand how neural networks operate and to address security questions including provable adversarial vulnerabilities and robustness. More recently, I have expanded my work to the theory of machine unlearning, focusing on its theoretical foundations and the evaluation of existing approaches. My research combines theoretical analysis with applied work, developing and empirically evaluating methods in practical learning systems.
+
+Alongside my academic research, I have gained industry experience in machine learning security research. I am currently an intern at Microsoft, working in a security research group on LLM-based classification of security data, with a focus on explainability and interpretability in collaboration with Prof. [Rich Caruana](https://www.linkedin.com/in/rich-caruana-a4235a91). Previously, I worked as a security researcher at NSO Group, where I focused on practical cybersecurity research.
 {style="text-align: justify;"}
